@@ -98,7 +98,9 @@ img {
 }
 
 .site-menu ul li a {
-    font-family: 'Cherry Bomb One', cursive;
+    font-family: "Codystar", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 @media (max-width: 800px) {
